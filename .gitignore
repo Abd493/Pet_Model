@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# Flask env vars
+.env
+
+# Mac/Linux hidden files
+.DS_Store
+
+# Model files
+*.pkl
+
+# Logs
+*.log
